@@ -1,0 +1,26 @@
+{
+  "name": "coffeeshop",
+  "version": "1.0.0",
+  "description": "App Coffeeshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrarnaim015/coffeeshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrarnaim015/coffeeshop/issues"
+  },
+  "homepage": "https://github.com/abrarnaim015/coffeeshop#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "pg": "^8.4.1",
+    "sequelize": "^6.3.5"
+  }
+}
