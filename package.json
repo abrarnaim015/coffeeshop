@@ -19,7 +19,7 @@
   "homepage": "https://github.com/abrarnaim015/coffeeshop#readme",
   "dependencies": {
     "ejs": "^3.1.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pg": "^8.4.1",
     "sequelize": "^6.3.5"
   }
